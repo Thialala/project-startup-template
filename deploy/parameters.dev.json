@@ -13,6 +13,12 @@
       },
       "aseEnvironment": {
         "value": "NonProduction"
+      },
+      "webAppName": {
+        "value": "app-mywebapp-dev-01"
+      },
+      "managedIdentityName": {
+        "value": "id-mywebbapp-dev-01"
       }
     }
   }
